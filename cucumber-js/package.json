@@ -1,0 +1,15 @@
+{
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "description": "Cucumber.js example",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "~0.1.9",
+    "selenium-launcher": "~1.1.6",
+    "cucumber": "~0.3.1",
+    "wd": "~0.0.34",
+    "grunt-contrib-clean": "0.4.0",
+    "grunt-exec": "~0.4.2"
+  }
+}
