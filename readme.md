@@ -19,9 +19,7 @@ A look at various frameworks to help with acceptance testing. See [webpro/Automa
 
 #### Pros
 - Feature files follow the proper [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) syntax.
-- 
-- 
-- 
+- Maintained by the official [Cucumber](https://github.com/cucumber) organisation.
 
 #### Cons
 - Reporting wasn't amazing. Looks like it's still a work in progress. No colouring in the output ([issue: 104](https://github.com/cucumber/cucumber-js/pull/104)).
