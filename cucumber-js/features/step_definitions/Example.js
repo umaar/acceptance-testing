@@ -24,7 +24,7 @@ function Example() {
 		initialiseBrowserLogging();
 
 		browser.init({
-			browserName: 'safari',
+			browserName: 'chrome',
 			tags: ["examples"],
 			name: "This is an example test"
 		}).done(function() {
