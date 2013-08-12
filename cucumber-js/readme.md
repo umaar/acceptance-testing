@@ -1,5 +1,10 @@
 # Cucumber.js
 
 ## To run
-- `npm install`
-- `grunt`
+
+While in the cucumber-js directory:
+
+```
+npm install
+grunt
+```
